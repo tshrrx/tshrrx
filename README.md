@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+<h1 align="center">Hi there 👋, I'm Tushar Hirekhan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tshrrx&label=Profile%20views&color=0e75b6&style=flat" alt="tshrrx" /> </p>
 
 <!--
 **tshrrx/tshrrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +21,8 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/tusharhirekhan" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="tshrrx" height="30" width="40" /></a>
 <a href="https://instagram.com/tshrrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tshrrx" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Stats:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tshrrx&show_icons=true&locale=en&layout=compact" alt="tshrrx" /></p>
 
