@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tusharhirekhan" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="tshrrx" height="30" width="40" /></a>
+<a href="https://instagram.com/tshrrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tshrrx" height="30" width="40" /></a>
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tshrrx&show_icons=true&locale=en&layout=compact" alt="tshrrx" /></p>
 
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=tshrrx&show_icons=true&locale=en" alt="tshrrx" /></p>
